@@ -1,0 +1,4 @@
+{
+  "林风": { "translation": "หลินเฟิง", "category": "character", "status": "approved", "firstSeen": "chapter-001.txt", "alternatives": [], "confidence": 0.95, "contextDependent": false },
+  "青云宗": { "translation": "สำนักเมฆาคราม", "category": "organization", "status": "auto", "firstSeen": "chapter-002.txt", "alternatives": [], "confidence": 0.9, "contextDependent": false }
+}

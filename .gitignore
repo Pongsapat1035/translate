@@ -1,0 +1,9 @@
+node_modules/
+dist/
+[.]env*
+!.env.example
+.state/
+output/*
+!output/.gitkeep
+*.tmp
+.DS_Store
